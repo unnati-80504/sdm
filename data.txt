@@ -1,0 +1,6 @@
+!/bin/bash
+Linux is open source.
+In linux everything is a file.
+Linux Is very poweful.
+Security is the main
+advantage.
