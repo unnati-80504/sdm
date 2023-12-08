@@ -17,14 +17,18 @@ case $choice in
   ;;
 
 2)
-	
+	res=`ls -o`
+	echo "$res"
 	;;
 
 3)
+	res1=`ls -tty`
+	echo "$res1"
 	;;
 
 4)
-
+	res2=`expr "1.3 + 2.5" | bc`
+	echo "$res2"
 	;;
 
 5)
